@@ -1,7 +1,7 @@
 %define		_realname	graymodern
 %define		_snap		2007-01-20_sea1.1
 Summary:	Theme like Modern, only gray
-Summary(pl.UTF-8):   Motyw identyczny jak Modern, tylko że szary
+Summary(pl.UTF-8):	Motyw identyczny jak Modern, tylko że szary
 Name:		seamonkey-theme-GrayModern
 Version:	2007.01.20
 Release:	1
