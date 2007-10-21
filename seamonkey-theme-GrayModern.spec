@@ -3,7 +3,7 @@
 Summary:	Theme like Modern, only gray
 Summary(pl.UTF-8):	Motyw identyczny jak Modern, tylko że szary
 Name:		seamonkey-theme-GrayModern
-Version:	2007.01.20
+Version:	2007.06.18
 Release:	1
 License:	GPL
 Group:		X11/Applications/Networking
