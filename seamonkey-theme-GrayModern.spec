@@ -1,5 +1,5 @@
 %define		_realname	graymodern
-%define		_snap		2007-01-20_sea1.1
+%define		_snap		2007-06-18_sea1.1
 Summary:	Theme like Modern, only gray
 Summary(pl.UTF-8):	Motyw identyczny jak Modern, tylko że szary
 Name:		seamonkey-theme-GrayModern
@@ -8,7 +8,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications/Networking
 Source0:	http://mozilla-themes.schellen.net/%{_realname}_%{_snap}.jar
-# Source0-md5:	b3b0adb4e2b2c642b108e586bed6e9c9
+# Source0-md5:	7b61f2e7c1ecd7e225d5be44d521634b
 Source1:	gen-installed-chrome.sh
 URL:		http://mozilla-themes.schellen.net/
 Requires(post,postun):	seamonkey >= 1.1
